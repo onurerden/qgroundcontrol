@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/ADSB/ADSBVehicleManager.cc" line="70"/>
         <source>ADSB Server Error: %1</source>
-        <translation>ADSB Sunucu Hatasır: %1</translation>
+        <translation>ADSB Sunucu Hatası: %1</translation>
     </message>
 </context>
 <context>
